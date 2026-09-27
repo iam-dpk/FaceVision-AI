@@ -1,0 +1,7 @@
+{
+  "camera_index": 0,
+  "recognition_threshold": 0.72,
+  "attendance_cooldown_minutes": 10,
+  "camera_width": 960,
+  "camera_height": 540
+}

@@ -1,0 +1,6 @@
+BG = "#10151c"
+PANEL = "#18212b"
+TEXT = "#eaf0f6"
+MUTED = "#9eacba"
+ACCENT = "#4ade80"
+DANGER = "#fb7185"

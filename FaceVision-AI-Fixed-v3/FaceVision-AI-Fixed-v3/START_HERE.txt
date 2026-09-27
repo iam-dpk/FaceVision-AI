@@ -1,0 +1,27 @@
+FACEVISION AI - FIXED WINDOWS STARTUP
+=====================================
+
+Your screenshot shows that the Python Launcher (py) was trying to find
+Python 3.11, but Python 3.11 is not installed.
+
+This version no longer requires Python 3.11 specifically.
+It first uses the `python` command already installed on your PC.
+
+1. Extract this ZIP.
+2. Open this folder.
+3. Run run.bat.
+4. It will create .venv, install requirements and start the desktop app.
+
+If it fails:
+Open PowerShell in this folder and run:
+
+    python --version
+
+Then:
+
+    python -m venv .venv
+
+If those commands work, run:
+
+    .venv\Scripts\python.exe -m pip install -r requirements.txt
+    .venv\Scripts\python.exe app.py
