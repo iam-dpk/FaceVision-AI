@@ -4,7 +4,7 @@
 
 
 
-FaceVision AI is a Python-based face recognition and attendance management system built with OpenCV, face embeddings, SQLite, and Tkinter.
+FaceVision AI is a Python-based face recognition and attendance management system built with OpenCV, face embeddings, SQLite, and Tkinter...
 
 
 
