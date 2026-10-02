@@ -26,7 +26,7 @@ FaceVision AI is a Python-based face recognition and attendance management syste
 
 
 
-# ✨ Features
+# ✨ Features - 
 
 
 
@@ -83,7 +83,7 @@ Python • OpenCV • NumPy • Pillow • SQLite • Tkinter
 
 
 
-# ⚙️ How It Works
+# ⚙️ How It Works - 
 
 
 Webcam / Image
