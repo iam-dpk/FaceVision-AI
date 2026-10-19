@@ -26,7 +26,7 @@ FaceVision AI is a Python-based face recognition and attendance management syste
 
 
 
-# ✨ Features - 
+# ✨ Features - .
 
 
 
